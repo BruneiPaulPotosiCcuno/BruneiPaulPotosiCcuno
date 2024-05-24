@@ -1,5 +1,9 @@
 # 💫 About Me:
-Benvenuti nel mio profilo GitHub! 👋<br><br>Sono uno studente di programmazione peruviano di 24 anni, attualmente residente in Italia. Sono appassionato del mondo dello sviluppo software e sono costantemente impegnato nell'acquisizione di nuove conoscenze e competenze.<br><br>Il mio obiettivo principale è diventare un eccellente sviluppatore Full Stack, in grado di creare applicazioni web innovative e scalabili. Sono profondamente interessato a tecnologie come JavaScript, React, Node.js, Python e database come MongoDB e PostgreSQL.<br><br>Nonostante la mia giovane età, mi contraddistinguo per la mia determinazione e voglia di imparare. Non vedo l'ora di immergermi in nuovi progetti stimolanti che mi permettano di crescere sia personalmente che professionalmente. Apprezzo il lavoro di squadra e sono disposto a collaborare con altri sviluppatori per raggiungere obiettivi comuni.<br><br>Credo fermamente nell'equilibrio tra lavoro e vita privata, che mi permette di affrontare ogni sfida con energia ed entusiasmo.<br><br>Se stai cercando uno sviluppatore impegnato, dedito e desideroso di imparare, non esitare a contattarmi. Sono entusiasta di unirmi a nuovi progetti e di contribuire con il mio talento!
+Sono uno studente di programmazione peruviano di 24 anni, residente in Italia. Sono appassionato di sviluppo software e sempre alla ricerca di nuove competenze. Voglio diventare uno sviluppatore Full Stack specializzato in JavaScript, React, Node.js, Python, MongoDB e PostgreSQL.
+
+Determinazione e voglia di imparare mi contraddistinguono. Mi piace lavorare in team e collaborare per raggiungere obiettivi comuni. Credo nell'equilibrio tra lavoro e vita privata per affrontare ogni sfida con energia.
+
+Se cerchi uno sviluppatore dedicato e desideroso di crescere, contattami! Sono entusiasta di contribuire a nuovi progetti.
 
 
 ## 🌐 Socials:
